@@ -1,5 +1,5 @@
 ; Filename: egghunter.nasm
-; Author:   Re4son <r34son[at]whitedome.com.au>
+; Author:   Re4son <re4son[at]whitedome.com.au>
 ;           98% Skape's shellcode - I just cleared ecx on
 ;           startup as it causes SIGSEGV and me not getting any sleep
 ;
